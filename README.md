@@ -1,10 +1,10 @@
 # forest500-backend
 
-#Elasticsearch
+# Elasticsearch
   On docker folder
     * docker-compose up
     
-#Django backend
+# Django backend
   python3 managa.py runserver 0.0.0.0
 
 
