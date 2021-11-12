@@ -1,0 +1,8 @@
+cluster.name: forest500-cluster
+node.name: node-1
+path.data: /usr/share/elasticsearch/data
+http.port: 9200
+http.cors.enabled: true
+http.cors.allow-credentials: true
+http.cors.allow-origin: "*"
+http.cors.allow-headers: X-Requested-With, X-Auth-Token, Content-Type, Content-Length, Authorization, Access-Control-Allow-Headers, Accept
